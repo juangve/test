@@ -1,15 +1,15 @@
-#Hola#
+#Hi#
 
-Esta es una prueba de Markdown con un simple link a [Google][1]
+This is a test, I'm using Markdown for write a simple link to [Google][1]
 
-##Uso##
+##Use##
 
 Practicing how to use:
 
-*Git
+* Git
 
-*Github
+* Github
 
-*Markdown
+* Markdown
 
 [1]: http://www.google.com
